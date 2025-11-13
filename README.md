@@ -7,7 +7,7 @@
 This repository contains the PyTorch implementation of the AAAI 2026 paper [Prune&Comp: Free Lunch for Layer-Pruned LLMs via Iterative Pruning with Magnitude Compensation](https://arxiv.org/abs/2507.18212).
 
 <p align="center">
-  <img src="PruneAndComp.png" width="1000">
+  <img src="PruneAndComp.png" width="900">
 </p>
 
 ---
